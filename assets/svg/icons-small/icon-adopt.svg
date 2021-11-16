@@ -1,0 +1,5 @@
+<svg data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="98" height="98">
+    <circle cx="49" cy="49" r="49" fill="#5cbbff" opacity=".7" style="isolation:isolate"/>
+    <path fill="none" stroke="#000520" stroke-miterlimit="10" stroke-width="1.5" d="M49.88 21.59v34.72M58.24 45.86l-8.36 10.45-8.36-10.45"/>
+    <path d="M44.66 36.21h-9.4a2.09 2.09 0 0 0-2.09 2.09v29.26a2.09 2.09 0 0 0 2.09 2.1h29.26a2.1 2.1 0 0 0 2.09-2.1V38.3a2.1 2.1 0 0 0-2.09-2.09h-9.41" fill="none" stroke="#000520" stroke-miterlimit="10" stroke-width="1.5"/>
+</svg>

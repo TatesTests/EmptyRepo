@@ -1,0 +1,10 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="98" height="98" overflow="visible" viewBox="0 0 98 98">
+
+  <circle id="HG_2_" cx="49" cy="49" r="49" fill="#5cbbff" opacity=".7"/>
+  <g id="Smartphone_Kopie">
+    <path d="M35.9 33.8h26.3c1.1 0 2 .9 2 2V58c0 1.1-.9 2-2 2H35.9c-1.1 0-2-.9-2-2V35.9c-.1-1.2.8-2.1 2-2.1z" fill="none" stroke="#111" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M39.9 25.8h18.2c3.3 0 6.1 2.7 6.1 6.1v34.4c0 3.3-2.7 6.1-6.1 6.1H39.9c-3.3 0-6.1-2.7-6.1-6.1V31.8c0-3.3 2.8-6 6.1-6zM43.9 29.8H54" fill="none" stroke="#111" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M48 64.2h2c1.1 0 2 .9 2 2s-.9 2-2 2h-2c-1.1 0-2-.9-2-2s.9-2 2-2z" fill="none" stroke="#111" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>

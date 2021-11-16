@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="411px" height="465px" viewbox="0 0 411 465" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <g id="Group-2" transform="translate(0.5 0.5)">
+    <path d="M0 0L410 0L410 201L0 201L0 0Z" id="Rectangle" fill="#5CBBFF" fill-rule="evenodd" stroke="none" />
+    <path d="M343.997 172C343.997 80.7347 266.991 0 171.999 0C77.0076 0 0.00167184 77.007 0.00167184 172C0.87921 172 343.997 172 343.997 172Z" transform="translate(33 29)" id="Oval" fill="#FFFFFF" fill-rule="evenodd" stroke="none" />
+    <path d="M172 172C172 80.7347 94.993 0 0 0C0.000832768 0 0.878397 172 0.609012 172C86.4072 172 172.003 172 172 172Z" transform="translate(205 29)" id="Oval" fill="#008187" fill-rule="evenodd" stroke="none" />
+    <path d="M0 0L206 0L206 263L0 0Z" transform="translate(0 201)" id="Rectangle-Copy-2" fill="#FF8424" fill-rule="evenodd" stroke="none" />
+    <path d="M0 0L204 0L204 263L0 263L0 0Z" transform="translate(206 201)" id="Rectangle-Copy-3" fill="#FFD232" fill-rule="evenodd" stroke="none" />
+    <path d="M0 77.8937L102 1.25256e-12L102 97.1062L0 175L0 77.8937Z" transform="translate(206 289)" id="Rectangle" fill="#0072C6" fill-rule="evenodd" stroke="none" />
+    <path d="M0 77.8937L102 1.25256e-12L102 87.674L102 97.1062L0 175L0 77.8937Z" transform="matrix(-1 0 0 1 410 289)" id="Rectangle-Copy-2" fill="#5CBBFF" fill-rule="evenodd" stroke="none" />
+  </g>
+</svg>

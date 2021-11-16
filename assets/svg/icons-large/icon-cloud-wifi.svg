@@ -1,0 +1,12 @@
+<svg id="Layer_39" data-name="Layer 39" xmlns="http://www.w3.org/2000/svg" width="314.42" height="284.8" viewBox="0 0 314.42 284.8">
+  <path d="M379,315.15a63.94,63.94,0,0,0-63.89-64c-.82,0-1.64,0-2.46,0a89.51,89.51,0,0,0-170.37,32.94,48,48,0,0,0-56.88,37.17,48.55,48.55,0,0,0-1,9.84c0,48.8,51.24,48,51.24,48H321.35S379,371.69,379,315.15Z" transform="translate(-64.57 -94.39)" fill="#acd653"/>
+  <path d="M361,301.15a63.94,63.94,0,0,0-63.89-64c-.82,0-1.64,0-2.46,0a89.51,89.51,0,0,0-170.37,32.94,48,48,0,0,0-56.88,37.17,48.55,48.55,0,0,0-1,9.84c0,48.8,51.24,48,51.24,48H303.35S361,357.69,361,301.15Z" transform="translate(-64.57 -94.39)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  <g>
+    <path d="M274.47,123.5a108.76,108.76,0,0,0-120.78,0" transform="translate(-64.57 -94.39)" fill="none" stroke="#fcd116" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+    <path d="M246.06,156.43a57.67,57.67,0,0,0-63.95,0" transform="translate(-64.57 -94.39)" fill="none" stroke="#fcd116" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+  </g>
+  <g>
+    <path d="M268.47,114.5a108.76,108.76,0,0,0-120.78,0" transform="translate(-64.57 -94.39)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path d="M240.06,147.43a57.67,57.67,0,0,0-63.95,0" transform="translate(-64.57 -94.39)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  </g>
+</svg>

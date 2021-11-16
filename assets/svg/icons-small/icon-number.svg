@@ -1,0 +1,9 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="98" height="98" viewBox="0 0 98 98">
+  <circle id="HG" cx="49" cy="49" r="49" fill="#5cbbff" opacity="0.7" style="isolation: isolate"/>
+  <g>
+    <line x1="34.7" y1="43.73" x2="66.31" y2="43.73" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.51"/>
+    <line x1="31.69" y1="54.27" x2="63.3" y2="54.27" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.51"/>
+    <line x1="40.75" y1="66.31" x2="46.79" y2="31.69" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.51"/>
+    <line x1="51.29" y1="66.31" x2="57.33" y2="31.69" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.51"/>
+  </g>
+</svg>

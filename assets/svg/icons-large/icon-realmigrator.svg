@@ -1,0 +1,10 @@
+<svg id="Layer_17" data-name="Layer 17" xmlns="http://www.w3.org/2000/svg" width="480.2" height="354.41" viewBox="0 0 480.2 354.41">
+  <g id="Cloud_Data_Transfer" data-name="Cloud Data Transfer">
+    <path d="M414.45,288.29a88.12,88.12,0,0,0,51.11-82.76,96.31,96.31,0,0,0-97.72-94.87c-1.18,0-2.37.06-3.55.12A137.1,137.1,0,0,0,240.7,34.69,135,135,0,0,0,104.25,159.57a72.78,72.78,0,0,0-88.41,69.69,65.13,65.13,0,0,0,51.1,67.09" transform="translate(14.6 -25.6)" fill="#0072c6"/>
+    <g>
+      <path d="M291.45,274.51l-57-57V374.3m-57-99.79,57-57" transform="translate(14.6 -25.6)" fill="none" stroke="#f8842c" stroke-linecap="round" stroke-linejoin="round" stroke-width="11.42"/>
+      <path d="M304.36,269.42l-59.93-59.93V374.3M184.49,269.42l59.94-59.93" transform="translate(14.6 -25.6)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+    <path d="M385.11,280.21a88.11,88.11,0,0,0,51.1-82.77,96.29,96.29,0,0,0-97.71-94.86c-1.19,0-2.37,0-3.56.11A137.08,137.08,0,0,0,211.35,26.61,135,135,0,0,0,74.9,151.49a72.81,72.81,0,0,0-88.41,69.68A65.12,65.12,0,0,0,37.6,288.26" transform="translate(14.6 -25.6)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  </g>
+</svg>

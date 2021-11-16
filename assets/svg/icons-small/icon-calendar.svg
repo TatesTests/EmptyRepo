@@ -1,0 +1,15 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="98" height="98" viewBox="0 0 98 98">
+  <circle id="HG" cx="49" cy="49" r="49" fill="#5cbbff" opacity="0.7" style="isolation: isolate"/>
+  <g>
+    <rect x="32.6" y="33.41" width="33.04" height="30.17" rx="1.44" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <line x1="39.79" y1="30.53" x2="39.79" y2="37.72" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <line x1="58.46" y1="30.53" x2="58.46" y2="37.72" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <line x1="32.6" y1="40.59" x2="65.65" y2="40.59" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <line x1="49.12" y1="40.59" x2="49.12" y2="63.58" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <line x1="40.5" y1="40.59" x2="40.5" y2="63.58" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <line x1="57.74" y1="40.59" x2="57.74" y2="63.58" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <line x1="32.6" y1="52.08" x2="65.65" y2="52.08" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <line x1="32.6" y1="46.34" x2="65.65" y2="46.34" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <line x1="32.6" y1="57.83" x2="65.65" y2="57.83" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  </g>
+</svg>

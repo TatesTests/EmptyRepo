@@ -1,0 +1,148 @@
+{
+  "headers": [
+    {
+      "match": "/.*",
+      "headers": [
+        {
+          "name": "strict-transport-security",
+          "value": "max-age=31536000; includeSubDomains; preload"
+        },
+        {
+          "name": "x-frame-options",
+          "value": "SAMEORIGIN"
+        },
+        {
+          "name": "x-content-type-options",
+          "value": "NOSNIFF"
+        },
+        {
+          "name": "x-xss-protection",
+          "value": "0"
+        },
+        {
+          "name": "expect-ct",
+          "value": ""
+        },
+        {
+          "name": "content-security-policy",
+          "value": "frame-ancestors 'none'; referrer 'same-origin';"
+        }
+      ]
+    }
+  ],
+  "routes": [
+    {
+      "from": "/csoc/(.*)",
+      "to": "/de/security/cloud-security-operations-center",
+      "status": 302
+    },
+    {
+      "from": "/anreise/(.*)",
+      "status": 302,
+      "to": "/de/unternehmen/kontakt-und-standorte"
+    },
+    {
+      "from": "/award/(.*)",
+      "status": 302,
+      "to": "/blog/microsoft/poy/award/2020/07/gk-microsoft-partner-of-the-year/"
+    },
+    {
+      "from": "/award-en/(.*)",
+      "status": 302,
+      "to": "/blog/microsoft/poy/award/2020/07/gk-microsoft-partner-of-the-year/"
+    },
+    {
+      "from": "/cd-portal/(.*)",
+      "status": 301,
+      "to": "https://company-195965.frontify.com/d/3sn4vAQwxwq5/glueckkanja-gab"
+    },
+    {
+      "from": "/unternehmen/impressum/(.*)",
+      "status": 302,
+      "to": "/de/impressum"
+    },
+    {
+      "from": "/de/unternehmen/impressum/(.*)",
+      "status": 302,
+      "to": "/de/impressum"
+    },
+    {
+      "from": "/service-conditions/(.*)",
+      "status": 302,
+      "to": "/documents/general/gkgab-service-conditions.pdf"
+    },
+    {
+      "from": "/marketplace/scepman/(.*)",
+      "status": 302,
+      "to": "/blog/microsoft/poy/award/2020/07/gk-microsoft-partner-of-the-year/"
+    },
+    {
+      "from": "/karriere/(.*)",
+      "status": 302,
+      "to": "/de/karriere"
+    },
+    {
+      "from": "/de/portfolio/scepman/(.*)",
+      "status": 302,
+      "to": "/de/produkte/scepman"
+    },
+    {
+      "from": "/de/portfolio/cloud-security-operations-center/(.*)",
+      "status": 302,
+      "to": "/de/security/cloud-security-operations-center"
+    },
+    {
+      "from": "/en/portfolio/cloud-security-operations-center/(.*)",
+      "status": 302,
+      "to": "/en/security/cloud-security-operations-center"
+    },
+    {
+      "from": "/de/portfolio/radius-as-a-service/(.*)",
+      "status": 302,
+      "to": "/de/produkte/radius-as-a-service"
+    },
+    {
+      "from": "/documents/support/",
+      "status": 302,
+      "to": "/documents/support/201905-gk-ServiceCatalogueSupportedApps2019-EN.pdf"
+    },
+    {
+      "from": "/service-conditions/(.*)",
+      "status": 302,
+      "to": "/documents/general/gkgab-service-conditions.pdf"
+    },
+    {
+      "from": "/dienstleistungskonditionen/(.*)",
+      "status": 302,
+      "to": "/documents/general/gkgab-dienstleistungskonditionen.pdf"
+    },
+    {
+      "from": "/documents/press-releases/201906-gk-PressReleasePOYAward-DE.pdf",
+      "status": 302,
+      "to": "/blog/microsoft/poy/award/2020/07/gk-microsoft-partner-of-the-year/"
+    },
+    {
+      "from": "/dsgvo/(.*)",
+      "status": 302,
+      "to": "/de/datenschutz"
+    },
+    {
+      "from": "/corona/(.*)",
+      "status": 302,
+      "to": "/de/unternehmen/corona-regeln/"
+    },
+    {
+      "from": "/join-teams-users-group/(.*)",
+      "status": 302,
+      "to": "/de/unternehmen/join-teams-users-group/"
+    },
+    {
+      "from": "/terms-of-use/(.*)",
+      "status": 302,
+      "to": "/en/privacy"
+    }
+  ]
+}
+
+
+

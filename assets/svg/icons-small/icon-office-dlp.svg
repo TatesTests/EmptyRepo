@@ -1,0 +1,13 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="98" height="98" viewBox="0 0 98 98">
+  <circle id="HG" cx="49" cy="49" r="49" fill="#5cbbff" opacity="0.7" style="isolation: isolate"/>
+  <g>
+    <path d="M53.39,65.15H40a1.33,1.33,0,0,1-1.33-1.34V35.71A1.32,1.32,0,0,1,40,34.38H57.8a1.33,1.33,0,0,1,1,.39l5,5a1.33,1.33,0,0,1,.39.94v4.41" transform="translate(-2.59 -2.22)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <line x1="40.1" y1="52.23" x2="52.14" y2="52.23" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path d="M44.7,47.76H46a.67.67,0,0,1,.67.67v6H44v-6A.67.67,0,0,1,44.7,47.76Z" transform="translate(-2.59 -2.22)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path d="M52.06,54.45v-10a.67.67,0,0,0-.67-.67H50.05a.67.67,0,0,0-.67.67v10" transform="translate(-2.59 -2.22)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path d="M57.41,49.09v-2a.67.67,0,0,0-.67-.67H55.4a.67.67,0,0,0-.67.67v7.36" transform="translate(-2.59 -2.22)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <rect x="54.82" y="52.23" width="12.04" height="10.7" rx="1.34" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <circle cx="60.84" cy="57.67" r="1.67" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path d="M66.78,52.44a3.35,3.35,0,0,0-6.7,0v2h6.7Z" transform="translate(-2.59 -2.22)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  </g>
+</svg>

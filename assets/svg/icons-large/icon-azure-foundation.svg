@@ -1,0 +1,11 @@
+<svg data-name="Layer 17" xmlns="http://www.w3.org/2000/svg" width="279.31" height="245.88">
+    <g data-name="Layer 11">
+        <path d="M218.74 186.06a60.47 60.47 0 1 0-34.28-110.2 93 93 0 1 0-91.3 110.2z" fill="#0072c6"/>
+        <path d="m120.74 123.66 16.59-2.94h.16l-8.54-10.15c-4.69-5.59-8.53-10.18-8.53-10.21s8.81-24.32 8.86-24.41 6 10.33 14.54 25.11c8 13.83 14.56 25.24 14.63 25.35l.11.19H104.3zm-32.56-3.1s4-7 8.94-15.51l8.96-15.49 10.41-8.75 10.45-8.75a1.63 1.63 0 0 1-.16.42c-.11.24-5.2 11.16-11.32 24.26l-11.1 23.83h-8.08c-4.47.01-8.1.01-8.1-.01z" fill="#fff"/>
+        <rect x="168.39" y="156.8" width="102.29" height="89.08" rx="9.24" fill="#fcd116"/>
+        <path d="m216.92 196.59-16.66 2.38 2.38-16.66 42.84-42.85a10.101 10.101 0 0 1 14.29 14.28h0z" fill="none" stroke="#000520" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.61"/>
+        <path d="M262.72 170.17v60.59a6.73 6.73 0 0 1-6.73 6.74h-87.53a6.74 6.74 0 0 1-6.73-6.74V156.7a6.73 6.73 0 0 1 6.73-6.73h47.13" fill="none" stroke="#000520" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.61"/>
+        <path fill="none" stroke="#000520" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.61" d="M198.76 163.44H175.2v60.59h74.06v-40.39M175.2 183.64h13.46"/>
+        <path fill="none" stroke="#000520" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.61" d="M175.2 210.57h20.2v13.46M229.06 210.57h20.2M235.79 197.1h13.47"/>
+    </g>
+</svg>

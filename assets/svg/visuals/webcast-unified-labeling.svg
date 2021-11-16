@@ -1,0 +1,13 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="501.84" height="300">
+  <g id="Ebene_2" data-name="Ebene 2">
+    <g id="Layer_1" data-name="Layer 1">
+      <path fill="#e7f0f2" d="M0 0h501.67v300H0z"/>
+      <path fill="#f8842c" d="M.84 0v164h188z"/>
+      <path fill="#fcd116" d="M.84 164h188v136L.84 164zM189 164L501.84 0v164H189z"/>
+      <path fill="#0072c6" d="M313 0l188.84 164V0H313z"/>
+      <path fill="#5cbbff" d="M501.67 164L188.84 300V164h312.83z"/>
+      <path fill="#f8842c" d="M189 300l312.84-136v136H189z"/>
+    </g>
+  </g>
+</svg>

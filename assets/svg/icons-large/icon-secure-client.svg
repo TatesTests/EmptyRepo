@@ -1,0 +1,13 @@
+<svg id="Layer_17" data-name="Layer 17"
+  xmlns="http://www.w3.org/2000/svg" width="374.8" height="376.8" viewBox="0 0 374.8 376.8">
+  <path d="M303.25,372.54H130.12a15.74,15.74,0,0,1-15.74-15.74V167.93a15.74,15.74,0,0,1,15.74-15.74h283.3a15.74,15.74,0,0,1,15.74,15.74V293.85" transform="translate(-96.58 -137.39)" fill="#5cbbff"/>
+  <rect x="233.15" y="250.9" width="141.65" height="125.9" rx="15.74" fill="#fcd116"/>
+  <path d="M437.2,372.2c-1.68-11.09,1.05-21.82-3.47-32.55a39.6,39.6,0,0,0-20.68-21.1c-17.67-7.47-40.25-.29-49.63,16.67-6.15,11.12-4.91,24.25-5.42,36.49" transform="translate(-96.58 -137.39)" fill="none" stroke="#fcd116" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+  <rect x="222.15" y="237.9" width="141.65" height="125.9" rx="15.74" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  <circle cx="292.97" cy="301.84" r="19.67" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  <path d="M428.9,351.67a39.35,39.35,0,1,0-78.7,0v23.61h78.7Z" transform="translate(-96.58 -137.39)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  <line x1="80.5" y1="269.37" x2="190.67" y2="269.37" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  <line x1="1.8" y1="174.93" x2="222.15" y2="174.93" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  <path d="M224.29,359.54v23.61a23.61,23.61,0,0,1-23.61,23.61" transform="translate(-96.58 -137.39)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  <path d="M287.25,359.54H114.12A15.74,15.74,0,0,1,98.38,343.8V154.93a15.74,15.74,0,0,1,15.74-15.74h283.3a15.74,15.74,0,0,1,15.74,15.74V280.85" transform="translate(-96.58 -137.39)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+</svg>

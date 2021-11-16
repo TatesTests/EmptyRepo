@@ -1,0 +1,6 @@
+<svg data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="98" height="98">
+    <circle cx="49" cy="49" r="49" fill="#5cbbff" opacity=".7" style="isolation:isolate"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M29.12 68.62h43.69M46.22 68.61h-17.1V39.17a1 1 0 0 1 1-1h15.2a1 1 0 0 1 1 1zM69.01 50.57a.94.94 0 0 0-1-.95h-5.64a.94.94 0 0 0-1 .95v18h7.59zM57.62 50.57a1 1 0 0 0-.95-.95h-5.7a.94.94 0 0 0-1 .95v18h7.6z"/>
+    <path d="M40.52 35.37a1 1 0 0 0-.95-1h-3.8a1 1 0 0 0-.95 1v2.85h5.7zM36.72 34.42v-7.59M32.92 43.92h9.5M32.92 49.62h9.5M32.92 55.32h9.5M32.92 61.02h9.5M51.92 37.27a4.75 4.75 0 0 0-4.75-4.75M55.72 37.27a8.55 8.55 0 0 0-8.55-8.55" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path d="M59.52 37.27a12.35 12.35 0 0 0-12.35-12.35" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+</svg>

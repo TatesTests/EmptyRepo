@@ -1,0 +1,15 @@
+
+<svg xmlns="http://www.w3.org/2000/svg"  width="340" height="266.6">
+  <g id="Ebene_2" data-name="Ebene 2">
+    <g id="Layer_17" data-name="Layer 17">
+      <path fill="none" d="M0 249.8h340"/>
+      <path d="M183.4 227.45H75.82a11.6 11.6 0 01-11.32-11.87V25.67A11.6 11.6 0 0175.82 13.8h169.86A11.6 11.6 0 01257 25.67v118.7" fill="#fcd116"/>
+      <path fill="none" stroke="#000" stroke-width="2px" stroke-linecap="round" stroke-linejoin="round" d="M171.4 215.45H63.82a11.6 11.6 0 01-11.32-11.87V13.67A11.6 11.6 0 0163.82 1.8h169.86A11.6 11.6 0 01245 13.67v118.7"/>
+      <path  fill="none" stroke="#f8842c" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" d="M95.09 55.28H206M95.14 90.89H206M95.13 126.5h73.42M95.13 162.1h61.97" />
+      <path fill="none" stroke="#000" stroke-width="2px" stroke-linecap="round" stroke-linejoin="round" d="M92.09 49.28H203M92.14 84.89H203M92.13 120.5h73.42M92.13 156.1h61.97"/>
+      <path d="M257.17 265.14L180.7 191a5.77 5.77 0 01-1.7-4.09v-46.35a5.79 5.79 0 015.79-5.79h46.31a5.77 5.77 0 014.1 1.7l74.1 72.16z" fill="#5cbbff"/>
+      <path fill="none" stroke="#000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M257.56 264.8l-76.47-74.11a5.82 5.82 0 01-1.69-4.1v-46.34a5.79 5.79 0 015.79-5.79h46.34a5.77 5.77 0 014.11 1.7l74.1 72.16z"/>
+      <path fill="none" stroke="#000" stroke-width="2px" stroke-linecap="round" stroke-linejoin="round" d="M203.25 156.18a2.17 2.17 0 11-2.17 2.17 2.17 2.17 0 012.17-2.17"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,12 @@
+<svg width="600.17" height="901" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg">
+    <path data-name="Orange Square" fill="#f8842c" d="M0 299.35h300.83v300.83H0z"/>
+    <path data-name="Light Blue Square" fill="#5cbbff" d="M0 0h299.34v299.34H0z"/>
+    <path data-name="Orange Trapezoid" fill="#f8842c" d="M299.35 156.26 149.67 41.49V184.57l149.68 114.78V156.26z"/>
+    <path data-name="Green Trapezoid" fill="#acd653" d="M0 156.26 149.67 41.49V184.57L0 299.35V156.26z"/>
+    <path data-name="Mid Blue Square" fill="#0072c6" d="M299.35 299.35h300.83v300.83H299.35z"/>
+    <path data-name="White Trapezoid" fill="#fff" d="m299.35 457.09 151.6-114.77V485.4l-151.6 114.77V457.09z"/>
+    <path data-name="Yellow Trapezoid" fill="#fcd116" d="M600.17 457.09 450.95 342.32V485.4l149.22 114.77V457.09z"/>
+    <path data-name="Green Square" fill="#acd653" d="M299.35 600.17h300.83V901H299.35z"/>
+    <path d="M298.97 610.68a138.76 138.76 0 1 1 0 277.51" fill="#fcd116"/>
+    <path d="M298.97 712.21a37.23 37.23 0 1 1 0 74.45" fill="#5cbbff"/>
+</svg>

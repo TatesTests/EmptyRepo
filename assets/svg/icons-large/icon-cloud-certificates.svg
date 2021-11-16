@@ -1,0 +1,17 @@
+<svg data-name="Layer 39" xmlns="http://www.w3.org/2000/svg" width="318.21" height="279">
+    <path d="M318.22 214.01a64.89 64.89 0 0 0-64.83-64.92c-.83 0-1.67 0-2.5.05a90.83 90.83 0 0 0-172.87 33.42 48.73 48.73 0 0 0-58.75 47.7c0 49.52 52 48.74 52 48.74h188.46s58.49-7.61 58.49-64.99z" fill="#fcd116"/>
+    <path d="M299.93 199.81a64.86 64.86 0 0 0-64.82-64.92h-2.51A90.83 90.83 0 0 0 59.73 168.3 48.78 48.78 0 0 0 .98 216c0 49.53 52 48.75 52 48.75h188.48s58.47-7.57 58.47-64.94z" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <g>
+        <path d="M192.79 132.51v16.44a16.44 16.44 0 0 1-16.44 16.44h76.71a16.44 16.44 0 0 0 16.44-16.44V24.09c0-4.14 3.2-23.09 21.92-23.09a21.92 21.92 0 0 1 21.91 21.92v21.89H269.5" fill="#fff" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M291.41 1h-65.75"/>
+        <g fill="#5cbbff">
+            <path d="m172.47 63.15-5.88 42.95a5.49 5.49 0 0 0 9.27 4.87l15-15 15 15a5.49 5.49 0 0 0 9.27-4.87l-5.85-42.95"/>
+            <circle cx="190.82" cy="35.88" r="32.88"/>
+        </g>
+        <g fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+            <path d="m163.47 61.15-5.88 42.95a5.49 5.49 0 0 0 9.27 4.87l15-15 15 15a5.49 5.49 0 0 0 9.27-4.87l-5.85-42.95"/>
+            <circle cx="181.82" cy="33.88" r="32.88"/>
+        </g>
+        <path d="M181.83 31.14a2.74 2.74 0 1 0 2.74 2.74 2.74 2.74 0 0 0-2.74-2.74" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+</svg>

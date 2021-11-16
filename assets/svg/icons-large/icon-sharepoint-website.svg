@@ -1,0 +1,28 @@
+<svg id="Layer_44" data-name="Layer 44" xmlns="http://www.w3.org/2000/svg" width="278.01" height="276" viewBox="0 0 278.01 276">
+  <rect x="12.01" y="10" width="266" height="266" rx="23.13" fill="#acd653"/>
+  <rect x="1" y="1" width="266" height="266" rx="23.13" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  <line x1="1" y1="58.83" x2="267" y2="58.83" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  <rect x="151.35" y="93.52" width="80.96" height="57.83" rx="5.78" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  <rect x="151.35" y="174.48" width="80.96" height="57.83" rx="5.78" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  <rect x="35.7" y="93.52" width="80.96" height="92.52" rx="5.78" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  <circle cx="76.17" cy="134" r="17.35" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  <path d="M138.26,284.24a32.2,32.2,0,0,1,28.91-34.7,32.2,32.2,0,0,1,28.92,34.7" transform="translate(-91 -98.19)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  <g>
+    <line x1="42.48" y1="215.17" x2="88.74" y2="215.17" fill="none" stroke="#f8842c" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"/>
+    <line x1="42.48" y1="238.3" x2="88.74" y2="238.3" fill="none" stroke="#f8842c" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"/>
+  </g>
+  <g>
+    <line x1="41.48" y1="209.17" x2="87.74" y2="209.17" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <line x1="41.48" y1="232.3" x2="87.74" y2="232.3" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  </g>
+  <g>
+    <path d="M134.48,126.21a2.9,2.9,0,1,1-2.89,2.9,2.89,2.89,0,0,1,2.89-2.9" transform="translate(-91 -98.19)" fill="none" stroke="#f8842c" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+    <path d="M169.17,126.21a2.9,2.9,0,1,1-2.89,2.9,2.9,2.9,0,0,1,2.89-2.9" transform="translate(-91 -98.19)" fill="none" stroke="#f8842c" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+    <path d="M203.87,126.21a2.9,2.9,0,1,1-2.89,2.9,2.89,2.89,0,0,1,2.89-2.9" transform="translate(-91 -98.19)" fill="none" stroke="#f8842c" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+  </g>
+  <g>
+    <path d="M132.48,125.21a2.9,2.9,0,1,1-2.89,2.9,2.89,2.89,0,0,1,2.89-2.9" transform="translate(-91 -98.19)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path d="M167.17,125.21a2.9,2.9,0,1,1-2.89,2.9,2.9,2.9,0,0,1,2.89-2.9" transform="translate(-91 -98.19)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path d="M201.87,125.21a2.9,2.9,0,1,1-2.89,2.9,2.89,2.89,0,0,1,2.89-2.9" transform="translate(-91 -98.19)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  </g>
+</svg>

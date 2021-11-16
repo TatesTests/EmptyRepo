@@ -1,0 +1,12 @@
+<svg data-name="Layer 17" xmlns="http://www.w3.org/2000/svg" width="304" height="292">
+    <path d="M80.17 95.05V20.44A12.44 12.44 0 0 1 92.59 8h199a12.44 12.44 0 0 1 12.44 12.44v149.22a12.44 12.44 0 0 1-12.44 12.43H154.78" fill="#fcd116"/>
+    <path d="M130.59 219.39h93" fill="none" stroke="#f8842c" stroke-linecap="round" stroke-miterlimit="10" stroke-width="8"/>
+    <path d="M144.78 292c0-37.77-28-68.39-68.39-68.39A68.38 68.38 0 0 0 8 292z" fill="#5cbbff"/>
+    <circle cx="75.69" cy="164.54" r="40.41" fill="#5cbbff"/>
+    <circle cx="187.52" cy="60.07" r="21.76" fill="none"/>
+    <path d="M231.04 125.35a44.91 44.91 0 0 0-87 0" fill="none"/>
+    <path d="M63.17 88.05V13.44A12.44 12.44 0 0 1 75.59 1h199a12.44 12.44 0 0 1 12.44 12.44v149.22a12.44 12.44 0 0 1-12.44 12.43H137.78M131.59 212.39h87M175.08 175.09v37.3M137.78 287c0-37.77-28-68.39-68.39-68.39A68.38 68.38 0 0 0 1 287z" fill="none" stroke="#111" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <circle cx="68.69" cy="159.54" r="40.41" fill="none" stroke="#111" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <circle cx="187.52" cy="60.07" r="21.76" fill="none" stroke="#111" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path d="M231.04 125.35a44.91 44.91 0 0 0-87 0" fill="none" stroke="#111" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+</svg>

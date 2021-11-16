@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="98" height="98" overflow="visible" viewBox="0 0 98 98">
+  <circle id="HG_2_" cx="49" cy="49" r="49" fill="#5cbbff" opacity=".7"/>
+  <g id="Car_Kopie">
+    <circle cx="64" cy="60.5" r="4.6" fill="none" stroke="#111" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="34" cy="60.5" r="4.6" fill="none" stroke="#111" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M64 55.9h9.2c1.3 0 2.3 1 2.3 2.3 0 1.3-1 2.3-2.3 2.3h-4.6M29.4 60.5h-4.3c-1.5 0-2.7-1.2-2.7-2.7V57c0-.6.5-1.2 1.2-1.2H34M59.4 60.5H38.6" fill="none" stroke="#111" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M74.3 55.9l-.9-5.6c-.2-1.5-1.2-2.7-2.7-3.1L64 44.4 60.3 35c-.6-1.3-1.8-2.1-3.2-2.1H31.7L26 42.4c-.7 1.3-1.1 2.8-1.2 4.3v9.2M50.2 44.4V32.9M54.8 51.3h-4.6M64 44.4H25.2M45.5 44.4v16.1" fill="none" stroke="#111" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>

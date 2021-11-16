@@ -1,0 +1,11 @@
+<svg viewbox="0 0 150 150" xmlns="http://www.w3.org/2000/svg" width="108.39" height="78.33">
+    <g data-name="Layer 2">
+        <g data-name="Layer 1">
+            <path d="M62.08 69.87a213.85 213.85 0 0 0 25.33-1.7A20.95 20.95 0 1 0 75.53 30a32.22 32.22 0 1 0-38.07 37.53 197.59 197.59 0 0 0 24.62 2.34z" fill="#fcd116"/>
+            <path d="M71.13 64.65H76a21 21 0 1 0-11.91-38.18A32.23 32.23 0 1 0 26 64" fill="none" stroke="#000520" stroke-linecap="round" stroke-linejoin="round" stroke-width=".37"/>
+            <rect x="33.16" y="51.93" width="32.27" height="26.4" rx="2.93" fill="#0072c6"/>
+            <path d="M39 51.93V44.6a10.27 10.27 0 1 1 20.54 0v7.33" fill="none" stroke="#0072c6" stroke-miterlimit="10" stroke-width="2.65"/>
+            <path d="M49.29 63.66a.74.74 0 1 0 .73.74.73.73 0 0 0-.73-.74" fill="#fcd116" stroke="#fcd116" stroke-miterlimit="10" stroke-width=".29"/>
+        </g>
+    </g>
+</svg>

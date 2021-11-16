@@ -1,0 +1,11 @@
+<svg width="250px" data-name="Layer 17" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 298 207.06">
+    <g data-name="Layer 32">
+        <path d="M160.49 15.76a137.5 137.5 0 0 0-137.5 137.5v41.85a12 12 0 0 0 12 11.95h251.05a12 12 0 0 0 12-11.95v-41.85a137.5 137.5 0 0 0-137.55-137.5z" fill="#fcd116"/>
+        <circle cx="142.5" cy="144.5" r="17.93" fill="#f8842c"/>
+        <path fill="none" stroke="#f8842c" stroke-linecap="round" stroke-linejoin="round" stroke-width="8" d="m152.17 131.81 59.2-59.17"/>
+        <circle cx="138.5" cy="138.5" r="17.93" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m151.17 125.81 59.2-59.17"/>
+        <path fill="none" stroke="#f8842c" stroke-linecap="round" stroke-linejoin="round" stroke-width="8" d="M252.74 149.02h-23.91M245.09 97.58 223 106.73M186.62 33.1l-9.15 22.1M142.16 24.46v23.91M99.69 33.1l9.15 22.1M62.84 57.72l16.89 16.92M38.22 94.58l22.08 9.15M28.57 142.02h23.91"/>
+        <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M24.91 144.48h23.92M252.09 144.48h-23.92M243.43 95.04l-22.08 9.14M181.96 33.56l-9.14 22.09M138.5 24.91v23.92M95.04 33.56l9.14 22.09M58.19 58.18l16.88 16.91M33.57 95.04l22.07 9.14M138.49 1A137.5 137.5 0 0 0 .99 138.5v41.85a12 12 0 0 0 12 11.95h251.05a12 12 0 0 0 12-11.95V138.5A137.5 137.5 0 0 0 138.49 1z"/>
+    </g>
+</svg>

@@ -1,0 +1,12 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="98" height="98" viewBox="0 0 98 98">
+  <circle id="HG" cx="49" cy="49" r="49" fill="#5cbbff" opacity="0.7" style="isolation: isolate"/>
+  <g>
+    <line x1="32.24" y1="62.14" x2="66.01" y2="62.14" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path d="M40.69,64.35V60.68A.73.73,0,0,0,40,60H37a.73.73,0,0,0-.73.73v3.67" transform="translate(-2.59 -2.22)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path d="M49.5,64.35V54.81a.74.74,0,0,0-.73-.74H45.83a.74.74,0,0,0-.73.74v9.54" transform="translate(-2.59 -2.22)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path d="M58.31,64.35V48.93a.73.73,0,0,0-.73-.73H54.64a.73.73,0,0,0-.73.73V64.35" transform="translate(-2.59 -2.22)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path d="M67.13,64.35V43.06a.73.73,0,0,0-.74-.73H63.45a.73.73,0,0,0-.73.73V64.35" transform="translate(-2.59 -2.22)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <line x1="35.91" y1="47.45" x2="62.34" y2="29.83" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <polyline points="61.61 35.7 62.34 29.83 56.47 29.09" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  </g>
+</svg>

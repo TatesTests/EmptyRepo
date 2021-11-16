@@ -1,0 +1,9 @@
+<svg data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="800" height="905.26">
+    <path data-name="Mid Blue Rectangle" fill="#0072c6" d="M0 0h800v392.98H0z"/>
+    <path data-name="White Half Circle" d="M735.33 393.03c0-177.49-150.28-334.5-335.67-334.5S63.99 208.29 63.99 393.03z" fill="#fff"/>
+    <path data-name="Orange Quadrant" d="M735.71 393.03c0-177.32-150.27-334.19-335.63-334.19 0 0 1.71 334.19 1.19 334.19z" fill="#f8842c"/>
+    <path data-name="Green Triangle" fill="#acd653" d="M0 392.98h402.34v512.28L0 392.98z"/>
+    <path data-name="Yellow Rectangle" fill="#5cbbff" d="M402.34 392.98H800v512.28H402.34z"/>
+    <path data-name="Mid Blue Trapezoid" fill="#0072c6" d="m402.34 715.76 198.83-152.02v189.51L402.34 905.26v-189.5z"/>
+    <path data-name="White Trapezoid" fill="#fff" d="M800 715.76 601.17 563.74v189.51L800 905.26v-189.5z"/>
+</svg>

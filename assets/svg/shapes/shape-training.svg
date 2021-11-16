@@ -1,0 +1,8 @@
+<svg data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="800" height="789.71">
+    <path fill="#5cbbff" d="M800 395.07H399.74V1.01H800z"/>
+    <path fill="#acd653" d="M800 789.12H399.74V395.06H800z"/>
+    <path data-name="Green Triangle" fill="#fcd116" d="M0 789.12h400.77V0L0 789.12z"/>
+    <path data-name="Yellow Triangle" fill="#fcd116" d="M800 395.23 599.98 198.21 800 1.18v394.05z"/>
+    <path data-name="Mid Blue Trapezoid" fill="#f8842c" d="M800 614.32 599.87 789.71V571.05L800 395.66v218.66z"/>
+    <path data-name="White Trapezoid" fill="#fff" d="m399.74 614.32 200.13 175.39V571.05L399.74 395.66v218.66z"/>
+</svg>

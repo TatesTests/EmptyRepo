@@ -1,0 +1,9 @@
+<svg data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="801.67" height="1201">
+    <path fill="#f8842c" d="M401.34 400.33V0h400.33v400.33z"/>
+    <circle cx="601.5" cy="200.17" r="117.62" fill="#acd653"/>
+    <path fill="#fcd116" d="M401.33 800.66V400.33h400.33v400.33z"/>
+    <path fill="#5cbbff" d="M801.67 800.67 601.5 603.68 401.33 800.67V597.32L601.5 400.33l200.17 196.99v203.35z"/>
+    <path fill="#f8842c" d="M401.34 1201V800.67h400.33V1201z"/>
+    <path fill="#acd653" d="M401.33 800.67 801.67 1201H401.33V800.67z"/>
+    <path fill="#5cbbff" d="M0 1201V800.67h400.33V1201z"/>
+</svg>

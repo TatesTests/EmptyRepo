@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="215px" height="322px" viewbox="0 0 215 322" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <path d="M0 0L107.159 0L107.159 107L0 107L0 0Z" transform="translate(48.84112 0)" id="path_1" />
+    <clipPath id="mask_1">
+      <use xlink:href="#path_1" />
+    </clipPath>
+  </defs>
+  <g id="Group-3" transform="translate(0.5 0.5)">
+    <path d="M107 107C107 50.2245 59.0945 0 0 0C0.000518059 0 0.546444 107 0.378862 107C53.7533 107 107.002 107 107 107Z" transform="matrix(-1 0 0 1 107 214)" id="Oval" fill="#F8842C" fill-rule="evenodd" stroke="none" />
+    <g id="Group-2" transform="translate(58 107)">
+      <path d="M0 0L107.159 0L107.159 107L0 107L0 0Z" transform="translate(48.84112 0)" id="Rectangle-Copy-4" fill="#ACD653" fill-rule="evenodd" stroke="none" />
+      <g clip-path="url(#mask_1)">
+        <path d="M0 0L107.159 0L107.159 107L0 107L0 0Z" transform="translate(48.84112 0)" id="Rectangle-Copy-4" fill="#ACD653" fill-rule="evenodd" stroke="none" />
+        <path d="M48.4766 96.8095C75.2495 96.8095 96.9533 75.138 96.9533 48.4048C96.9533 21.6716 75.2495 0 48.4766 0C21.7037 0 0 21.6716 0 48.4048C0 75.138 21.7037 96.8095 48.4766 96.8095Z" transform="translate(0 4.367347)" id="Oval" fill="#FFFFFF" fill-rule="evenodd" stroke="none" />
+        <path d="M12.3925 24.7483C19.2367 24.7483 24.785 19.2082 24.785 12.3741C24.785 5.5401 19.2367 0 12.3925 0C5.54832 0 0 5.5401 0 12.3741C0 19.2082 5.54832 24.7483 12.3925 24.7483Z" transform="translate(36.448597 40.761906)" id="Oval" fill="#5CBBFF" fill-rule="evenodd" stroke="none" />
+      </g>
+    </g>
+    <g id="Group" transform="translate(107 214)">
+      <path d="M0 0L107 0L107 107L0 107L0 0Z" id="Rectangle-Copy-3" fill="#FFD232" fill-rule="evenodd" stroke="none" />
+      <path d="M0 40.9499L54 6.58487e-13L54 51.0501L0 92L0 40.9499Z" transform="translate(0 15)" id="Rectangle" fill="#0072C6" fill-rule="evenodd" stroke="none" />
+      <path d="M0 40.9499L54 6.58487e-13L54 46.0914L54 51.0501L0 92L0 40.9499Z" transform="matrix(-1 0 0 1 107 15)" id="Rectangle-Copy-2" fill="#FFFFFF" fill-rule="evenodd" stroke="none" />
+    </g>
+    <path d="M0 0L107 0L107 107L0 107L0 0Z" transform="translate(107 0)" id="Rectangle-Copy-8" fill="#5CBBFF" fill-rule="evenodd" stroke="none" />
+  </g>
+</svg>

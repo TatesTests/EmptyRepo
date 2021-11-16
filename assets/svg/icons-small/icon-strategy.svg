@@ -1,0 +1,6 @@
+<svg data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="98" height="98">
+    <circle cx="49" cy="49" r="49" fill="#5cbbff" opacity=".7" style="isolation:isolate"/>
+    <path fill="none" stroke="#000520" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M47.77 46.93 56 38.7M56 38.7l1.12-7.4 6.41-6.3.99 5.18 5.18.99-6.3 6.41L56 38.7z"/>
+    <path d="M67.6 42.29a19.25 19.25 0 1 1-16.67-14.24" fill="none" stroke="#000520" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path d="M59.04 44.71a10.39 10.39 0 1 1-10.07-7.87M38.89 63.5l-1.49 5.92M59.62 63.5l1.48 5.92" fill="none" stroke="#000520" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+</svg>

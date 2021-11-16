@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 335.08 319.07">
+  <g id="Ebene_2" data-name="Ebene 2">
+    <g id="Layer_17" data-name="Layer 17">
+      <g id="Carreer">
+        <circle cx="167.23" cy="132.23" r="130.43" fill="#f8842c"/>
+        <circle cx="132.23" cy="132.23" r="130.43" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke="#111" stroke-width="3.6px"/>
+        <path d="M224.48 224.5l77.32 77.3M171.37 119.19a13 13 0 01-13.05 13h-13v-26.04h13a13 13 0 0113.05 13.04zM171.37 145.28a13 13 0 01-13.05 13h-13v-26.05h13a13 13 0 0113.05 13.05zM119.19 145.28a13 13 0 01-26.09 0v-26.09a13 13 0 0126.09 0zM67 106.15v39.13a13 13 0 01-26.09 0M223.54 106.15h-13a13 13 0 100 26.08 13 13 0 010 26.09h-13.09" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke="#111" stroke-width="3.6px"/>
+        <path fill="none" stroke="#fcd116" stroke-linecap="round" stroke-linejoin="round" stroke-width="8" d="M253.76 237.77l77.32 77.3"/>
+      </g>
+    </g>
+  </g>
+</svg>

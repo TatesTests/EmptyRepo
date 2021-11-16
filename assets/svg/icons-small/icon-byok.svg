@@ -1,0 +1,10 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="98" height="98" viewBox="0 0 98 98">
+  <circle id="HG" cx="49" cy="49" r="49" fill="#5cbbff" opacity="0.7" style="isolation: isolate"/>
+  <g>
+    <path d="M43,47.44a7.82,7.82,0,1,0,7.57,10H52.3l1.42,1.37,1.43-1.36h1.42L58,58.76l1.41-1.35h2.13l2.13-2.23-2.15-2h-11A7.85,7.85,0,0,0,43,47.44Z" transform="translate(-2.59 -2.22)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <circle cx="37.62" cy="53.04" r="2.13" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path d="M66.52,54.51a1.42,1.42,0,0,0,1.42-1.42V41.75a1.42,1.42,0,0,0-1.42-1.41l-15.64,0a1.42,1.42,0,0,0-1.42,1.43v4.3" transform="translate(-2.59 -2.22)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path d="M52.31,40.33V36.8a6.4,6.4,0,0,1,12.8,0h0v3.58" transform="translate(-2.59 -2.22)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <circle cx="56.11" cy="44.51" r="2.13" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  </g>
+</svg>

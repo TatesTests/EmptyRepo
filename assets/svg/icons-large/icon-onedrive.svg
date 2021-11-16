@@ -1,0 +1,16 @@
+<svg id="Layer_46" data-name="Layer 46" xmlns="http://www.w3.org/2000/svg" width="272.98" height="268" viewBox="0 0 272.98 268">
+  <g>
+    <path d="M319.07,269.79s48.42-6.75,48.42-56.3a55.75,55.75,0,0,0-56.3-56.3h-2.25c-18-39.41-65.31-56.3-104.72-37.16-25.9,12.39-42.79,37.16-45,66.44-22.52-4.51-45,10.13-49.54,32.65a24.72,24.72,0,0,0-1.13,9c0,42.79,42.79,41.66,42.79,41.66" transform="translate(-94.51 -105.19)" fill="#5cbbff"/>
+    <path d="M306.07,263.85s48.42-6.75,48.42-56.3a55.75,55.75,0,0,0-56.3-56.3h-2.25c-18-39.41-65.31-56.3-104.72-37.16-25.9,12.39-42.79,37.16-45,66.44-22.52-4.51-45,10.13-49.54,32.65a24.72,24.72,0,0,0-1.13,9c0,42.79,42.79,41.66,42.79,41.66" transform="translate(-94.51 -105.19)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <g>
+      <path d="M345,345a27.88,27.88,0,0,1-28.15,28.15H159.18A27.88,27.88,0,0,1,131,345V316.89H345Z" transform="translate(-94.51 -105.19)" fill="#fcd116"/>
+      <path d="M131,316.89l25.9-57.42c3.38-5.63,9-10.14,15.76-10.14H294.3c6.76,0,13.51,4.51,16.89,10.14L345,316.89Z" transform="translate(-94.51 -105.19)" fill="#fcd116"/>
+    </g>
+    <g>
+      <path d="M332,337a27.88,27.88,0,0,1-28.15,28.15H146.18A27.88,27.88,0,0,1,118,337V308.89H332Z" transform="translate(-94.51 -105.19)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path d="M118,308.89l25.9-57.42c3.38-5.63,9-10.14,15.76-10.14H281.3c6.76,0,13.51,4.51,16.89,10.14L332,308.89Z" transform="translate(-94.51 -105.19)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+    <line x1="166.27" y1="241.48" x2="200.05" y2="241.48" fill="none" stroke="#f8842c" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+    <line x1="164.27" y1="237.48" x2="198.05" y2="237.48" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  </g>
+</svg>

@@ -1,0 +1,5 @@
+<svg data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="98" height="98">
+    <circle cx="49" cy="49" r="49" fill="#5cbbff" opacity=".7" style="isolation:isolate"/>
+    <path d="M66.49 35.16a1.81 1.81 0 0 1 .53 1.28v31.17a1.81 1.81 0 0 1-1.81 1.81H34.56a1.81 1.81 0 0 1-1.8-1.81V29.78a1.81 1.81 0 0 1 1.8-1.81h24a1.77 1.77 0 0 1 1.27.51z" fill="none" stroke="#000520" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path d="m39.07 41.06 1.95 1.95a.91.91 0 0 0 1.28 0 .48.48 0 0 0 .09-.11l3.89-5.44M52.59 40.58h7.21M39.07 50.07l1.95 2a.91.91 0 0 0 1.28 0 .94.94 0 0 0 .09-.12l3.89-5.44M52.59 49.59h7.21M39.07 59.09l1.95 1.95a.91.91 0 0 0 1.28 0 .48.48 0 0 0 .09-.11l3.89-5.45M52.59 58.6h7.21" fill="none" stroke="#000520" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+</svg>

@@ -1,0 +1,8 @@
+<svg data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="98" height="98">
+    <circle cx="49" cy="49" r="49" fill="#5cbbff" opacity=".7" style="isolation:isolate"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.83" d="M49.73 35.06V58.8M33.3 58.78a11 11 0 0 1 11-11h11a11 11 0 0 1 11 11"/>
+    <rect x="45.17" y="25.93" width="9.13" height="9.13" rx="1.83" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.83"/>
+    <rect x="45.17" y="58.8" width="9.13" height="9.13" rx="1.83" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.83"/>
+    <rect x="28.73" y="58.8" width="9.13" height="9.13" rx="1.83" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.83"/>
+    <rect x="61.6" y="58.8" width="9.13" height="9.13" rx="1.83" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.83"/>
+</svg>

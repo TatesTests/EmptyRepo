@@ -1,0 +1,153 @@
+
+/marketplace/scepman                                https://azuremarketplace.microsoft.com/en-us/marketplace/apps/glueckkanja-gabag.scepman
+/anreise                                            /de/unternehmen/kontakt-und-standorte
+/phat                                               https://www.phatconsulting.de/100-cloud/
+/documents/press-releases/201906-gk-PressReleasePOYAward-DE.pdf     /blog/microsoft/poy/award/2020/07/gk-microsoft-partner-of-the-year/
+/award                                              /blog/microsoft/poy/award/2020/07/gk-microsoft-partner-of-the-year/
+/award/                                             /blog/microsoft/poy/award/2020/07/gk-microsoft-partner-of-the-year/
+/award-en/                                          /blog/microsoft/poy/award/2020/07/gk-microsoft-partner-of-the-year/
+/holofellow/                                        /de/
+/lyncfellow/                                        /de/
+/dienstleistungskonditionen/                        /documents/general/gkgab-dienstleistungskonditionen.pdf
+/service-conditions/                                /documents/general/gkgab-service-conditions.pdf
+/unternehmen/impressum/                             /de/impressum
+/de/unternehmen/jobs/                               /de/karriere
+/de/unternehmen/jobs                                /de/karriere
+/de/unternehmen/management/                         /de/unternehmen/facts-and-figures
+/de/unternehmen/facts-and-figures/                  /de/unternehmen/facts-and-figures
+/de/unternehmen/kontakt-und-standorte/              /de/unternehmen/kontakt-und-standorte
+/de/unternehmen/kontakt/                            /de/unternehmen/kontakt-und-standorte
+/de/unternehmen/impressum                           /de/impressum
+/de/portfolio/trainings/                            /de/unternehmen/trainings-und-workshops
+/de/portfolio/training-azure/                       /de/unternehmen/trainings-und-workshops
+/de/portfolio/cloud-security-offerings/             /de/security/security-consulting
+/de/portfolio/future-workplace/                     /de/modern-workplace/microsoft-endpoint-manager
+/de/technologien/100-percent-cloud/                 /de/modern-workplace/microsoft-endpoint-manager
+/de/technologien/microsoft-azure/                   /de/azure/azure-foundation
+/de/technologien/cloud-pbx/                         /de/modern-workplace/microsoft-teams
+/de/portfolio/scepman/                              /de/produkte/scepman
+/de/unternehmen/webcasts/                           /de/unternehmen/trainings-und-workshops
+/de/unternehmen/corona-regeln/                      /de
+/de/portfolio/cloud-security-operations-center/     /de/security/cloud-security-operations-center
+/csoc/                                              /de/security/cloud-security-operations-center
+/de/technologien/windows-virtual-desktop/           /de/modern-workplace/azure-virtual-desktop
+/de/portfolio/radius-as-a-service/                  /de/produkte/radius-as-a-service
+/en/portfolio/cloud-security-operations-center/     /de/security/cloud-security-operations-center
+/en/company/management/                             /de/unternehmen/facts-and-figures
+/documents/support/                                 /documents/support/201905-gk-ServiceCatalogueSupportedApps2019-EN.pdf
+/karriere/                                          /de/karriere
+
+/documents/articles/201807-iX-PKI-in-der-Cloud.pdf
+/documents/press-releases/201805-gk-Seite-3-Handelsblatt.pdf
+/documents/articles/201901-ix-Sichere-Daten-durch-Klassifizierung.pdf
+/documents/press-releases/201906-gk-PressReleaseTop100-DE.pdf
+/documents/press-releases/201906-gk-PressReleaseTop100Allgemein-DE.pdf
+/documents/press-releases/201906-gk-PressReleasePOYAward-EN.pdf
+/documents/press-releases/201706-gk-PressReleaseGlobalPartnerPOYAwards-DE.pdf
+/documents/press-releases/201706-gk-PressReleaseGlobalPartnerPOYAwards-EN.pdf
+
+/de/portfolio/future-workplace/
+/de/portfolio/packaging-as-a-service/
+/en/portfolio/unified-contacts/
+/de/portfolio/training-mdm-mam/
+/de/technologien/azure-active-directory/
+/de/unternehmen/teams-executive-briefing/
+/en/company/privacy/
+/de/technologien/intune/
+/de/unternehmen/management/
+/en/company/media-kit/
+/en/company/management/
+/en/portfolio/scepman/
+/de/portfolio/it-operations/
+/en/company/contact-and-locations/
+/blog/gk/recruiting/employerbranding/2019/07/new-employees/
+/de/portfolio/training-teams-voice/
+/de/portfolio/training-m365-holistic-security/
+/de/technologien/microsoft-azure/
+/de/unternehmen/teams-users-group/
+/en/company/gdpr/
+/en/company/facts-and-figures/
+/de/portfolio/consulting-services/
+/de/technologien/microsoft-teams/
+/de/unternehmen/highlights-2020/
+/de/unternehmen/security-workshop/
+/en/company/imprint
+/de/portfolio/cloud-security-operations-center-offering
+/de/portfolio/realmigrator/
+/de/technologien/information-protection/
+/lync/skype-business/
+/de/portfolio/teams-offering/
+/de/technologien/yammer-groups-and-sharepoint/
+/de/unternehmen/datenschutz
+/de/technologien/conditional-access/
+/de/technologien/windows-10/
+/de/unternehmen/impressum/
+/en/portfolio/it-operations/
+/de/technologien/office-365/
+/de/technologien/public-key-infrastructure
+/en/portfolio/packaging-as-a-service/
+/de/technologien/multi-factor-authentication/
+/en/technologies/public-key-infrastructure
+/de/technologien/enterprise-mobility-and-security/
+/de/technologien/skype-for-business/?consent=disable
+/de/unternehmen/datenschutz/
+/en/technologies/intune/
+/en/technologies/teams-skype-for-business-roadmap/
+/blog/security/microsoft/gk/2020/03/mdatp/
+/de/portfolio/training-modern-workplace/
+/de/technologien/exchange/
+/de/technologien/windows-defender-atp/
+/en/portfolio/radius-as-a-service/
+/en/technologies/office-365/
+/en/technologies/printix/
+/lync/lync-users-group/
+/de/unternehmen/media-kit/
+/en/company/privacy
+/en/technologies/100-percent-cloud/
+/en/technologies/azure-active-directory/
+/company/imprint/
+/de/portfolio/cloud-security-operations-center-offering/
+/de/portfolio/training-identity/
+/de/portfolio/training-mip/
+/de/unternehmen/gdpr
+/en/technologies/conditional-access/
+/en/technologies/enterprise-mobility-and-security/
+/en/technologies/multi-factor-authentication/
+/en/technologies/skype-for-business/
+/en/technologies/windows-10/
+/en/technologies/windows-defender-atp/
+/de/portfolio/cloud-security-offerings
+/de/technologien/onedrive-for-business/
+/en/company/highlights-2020/
+/en/company/partnership/
+/en/technologies/azure-iaas/
+/en/technologies/information-protection/
+/en/technologies/onedrive-for-business/
+/en/technologies/yammer-groups-and-sharepoint/
+/company/privacypolicy/
+/de/technologien/skype-for-business/
+/de/unternehmen/gdpr/
+/en/company/webcasts/
+/en/portfolio/it-security/
+/en/portfolio/Packaging-as-a-Service/
+/de/portfolio/it-security/
+/de/portfolio/training-azure
+/de/technologien/azure-iaas/
+/de/technologien/public-key-infrastructure/
+/de/unternehmen/
+/de/unternehmen/facts-and-figures
+/de/unternehmen/highlights-2020
+/en/company/gdpr
+/en/company/management
+/en/company/media-kit
+/en/company/partnership
+/en/portfolio/cloud-security-operations-center
+/en/portfolio/consulting-services
+/en/portfolio/consulting-services/
+/en/portfolio/it-operations
+/en/portfolio/it-security
+/en/portfolio/radius-as-a-service
+/en/portfolio/scepman
+/technologien/100-percent-cloud/
+/technologien/skype-for-business/
+/unternehmen/impressum/

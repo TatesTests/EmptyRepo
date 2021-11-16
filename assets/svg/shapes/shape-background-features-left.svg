@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 593.5 709.5" xml:space="preserve">
+    <path class="prefix__fill-warning" fill="#ffc107" d="M500.5 0h93v93h-93z"/>
+    <path class="prefix__fill-primary" d="M500.5 192V99h93c0 51.4-41.6 93-93 93z" fill="#377dff"/>
+    <circle class="prefix__fill-none prefix__stroke-info" stroke-width="33" stroke-miterlimit="10" cx="89.5" cy="620" r="73" fill="none" stroke="#00dffc"/>
+</svg>
