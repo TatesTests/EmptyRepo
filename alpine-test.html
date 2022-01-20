@@ -23,7 +23,7 @@
       <p><a href="https://alpinejs.dev/directives/for" target="_blank">Docs for
         X-For</a></p>
       <ul x-data="{colors: ['red', 'orange', 'yellow']}">
-        <template x-for="color in colors">
+        <template x-for="color in ['red', 'orange', 'yellow']">
           <li x-text="color"></li>
         </template>
       </ul>
