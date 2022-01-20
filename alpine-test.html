@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Alpine Test</title>
+  </head>
+  <body>
+    <div x-data='{greeting: "Hello, World!"}'>
+      <h1 x-text="greeting"></h1>
+    </div>
+
+    <hr/>
+
+    <div>
+      <h2>X-For - Static Data</h2>
+      <p><a href="https://alpinejs.dev/directives/for" target="_blank">Docs for
+        X-For</a></p>
+      <ul x-data="{colors: ['red', 'orange', 'yellow']}">
+        <template x-for="color in colors">
+          <li x-text="color"></li>
+        </template>
+      </ul>
+    </div>
+
+    <hr/>
+
+    <div x-data='{items: []}'>
+      <h2>X-For - Dynamic Data</h2>
+      <button
+        type="button"
+        @click="items = [...items, 'Item']"
+      >
+        Click to Add
+      </button>
+      <ul>
+        <template x-if="items.length == 0">
+          <li><b>No items to display -- maybe add one?</b></li>
+        </template>
+
+        <template x-for="item in items">
+          <li>Item</li>
+        </template>
+      <ul>
+    </div>
+
+    <script src="//unpkg.com/alpinejs" defer></script>
+  </body>
+</html>
