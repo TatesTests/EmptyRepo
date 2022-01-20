@@ -7,6 +7,11 @@
     <title>Alpine Test</title>
   </head>
   <body>
+    <script>
+  document.addEventListener("alpine:init", () => {
+    console.log("🐢")
+  })
+</script>
     <div x-data='{greeting: "Hello, World!"}'>
       <h1 x-text="greeting"></h1>
     </div>
