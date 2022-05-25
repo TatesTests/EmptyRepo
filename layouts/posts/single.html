@@ -1,0 +1,32 @@
+{{ define "main" }}
+	<article class="content">
+		{{ .Render "summary-details" }}
+		<div data-cms-content-wrapper="/layouts/posts/single.html">{{ .Content }}</div>
+
+		{{ $author := index .Site.Data.authors (.Params.author | default "default") }}
+		{{- if $author -}}
+			<h2>Meet the author</h2>
+			<div class="post-author staff">{{ partial "staff-member.html" $author }}</div>
+		{{ end }}
+
+		<h2>Keep reading</h2>
+		<ol class="post-links post-list">
+			{{ with .NextInSection }}
+				{{ .Render "summary" }}
+			{{ end }}
+
+			{{ with .PrevInSection }}
+				{{ .Render "summary" }}
+			{{ end }}
+		</ol>
+
+
+		{{ if eq (getenv "HUGO_ENV") "production" | or (eq .Site.Params.env "production") }}
+			{{ if .Site.DisqusShortname }}
+				<h2>Have your say</h2>
+				{{ partial "disqus.html" . }}
+			{{ end }}
+		{{ end }}
+
+	</article>
+{{ end }}
