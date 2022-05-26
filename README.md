@@ -1,66 +1,83 @@
-# 🦀
+# Docsy
 
-Law firm themed business template for Hugo. Browse through a [live demo](https://loved-wood.cloudvent.net/).
-Increase the web presence of a law firm or business with this configurable theme.
-qeqeqweqwe
-![Justice template screenshot](images/_screenshot.png)
+Docsy is a [Hugo](https://gohugo.io) theme for technical documentation sets,
+providing simple navigation, site structure, and more.
 
-Justice was made by [CloudCannon](https://cloudcannon.com/), a Jamstack platform for the whole team.
+This is not an officially supported Google product. This project is actively
+being maintained.
 
-## Features
+## Prerequisites
 
-* Contact form
-* Pre-built pages
-* Pre-styled components
-* Blog with pagination and category pages
-* Disqus comments for posts
-* Author system
-* Configurable footer
-* Optimised for editing in [CloudCannon](https://cloudcannon.com/)
-* RSS/Atom feed
-* SEO tags
-* Google Analytics
+The following are basic prerequisites for using Docsy in your site:
 
-## Setup
+- Install a recent release of the Hugo "extended" version. If you install from
+  the [Hugo release page](https://github.com/gohugoio/hugo/releases), make sure
+  you download the `_extended` version which supports SCSS.
 
-1. Add your site and author details in `config.toml`.
-2. Add your Google Analytics and Disqus keys to `config.toml`.
-3. Get a workflow going to see your site's output (with [CloudCannon](https://app.cloudcannon.com/) or Hugo locally).
+- Install `PostCSS` so that the site build can create the final CSS assets. You
+  can install it locally by running the following commands from the root
+  directory of your project:
 
-## Develop
+  ```console
+  $ npm install --save-dev autoprefixer
+  $ npm install --save-dev postcss-cli
+  ```
 
-Justice was built with [Hugo](https://gohugo.io/) version `0.80.0`, but should support newer versions as well.
+## Example and usage
 
-Run the standalone executable `hugo` to serve the site locally:
+You can find an example project that uses Docsy in the [Docsy Example Project
+repo](https://github.com/google/docsy-example).The Docsy Example Project is
+hosted at [example.docsy.dev](https://example.docsy.dev). For
+real-life examples of sites that use Docsy (and their source repos), see our
+[Examples](https://www.docsy.dev/docs/examples/) page.
 
-~~~bash
-$ hugo server
-~~~
+To use the Docsy theme for your own site:
 
-## Editing
+- (Recommended) Use the [example
+  project](https://github.com/google/docsy-example), which includes the Docsy
+  theme as a Hugo module, as a template to create your project. You can customize
+  this pre-configured basic site into your own Docsy themed site. [Learn
+  more...](https://github.com/google/docsy-example)
 
-Justice is set up for adding, updating and removing pages, authors, posts, company details and footer elements in [CloudCannon](https://app.cloudcannon.com/).
+- Add Docsy to your existing Hugo site repo's `themes` directory. You can
+  either add Docsy as a Git submodule, or clone the Docsy theme into your
+  project.
 
-### Posts
+See the [Docsy Getting Started Guide](https://docsy.dev/docs/getting-started/)
+for details about the various usage options.
 
-* Add, update or remove a post in the *posts* section.
-* The **author** field links to the **authors** data.
-* Change the defaults when new posts are created in `_posts/_defaults.md`.
+## Documentation
 
-### Contact Form
+Docsy has its own user guide (using Docsy, of course!) with lots more
+information about using the theme. It is hosted by [Netlify][] at
+[docsy.dev](https://docsy.dev). For deploy logs and more, see [Deploys][] from
+the site's Netlify dashboard.
 
-* Preconfigured to work with [CloudCannon](https://app.cloudcannon.com/), but easily changed to another provider (e.g. [FormSpree](https://formspree.io/)).
-* Sends email to the address listed in company details.
+Alternatively you can use Hugo to generate and serve a local copy of the guide
+(also useful for testing local theme changes), making sure you have installed
+all the prerequisites listed above:
 
-### Author
+```console
+$ git clone --depth 1 https://github.com/google/docsy.git
+$ cd docsy/userguide/
+$ npm install
+$ npm run serve
+```
 
-* Reused around the site to save multiple editing locations.
+## Contributing ![GitHub](https://img.shields.io/github/contributors/google/docsy)
 
-### Footer
+Please read
+[CONTRIBUTING.md](https://github.com/google/docsy/blob/main/CONTRIBUTING.md)
+for details on our code of conduct, and the process for submitting pull requests
+to us. See also the list of
+[contributors](https://github.com/google/docsy/graphs/contributors) who
+participated in this project.
 
-* Set how this displays with each page front matter in `menu.footer`.
+## License ![GitHub](https://img.shields.io/github/license/google/docsy)
 
-### Company details
+This project is licensed under the Apache License 2.0 - see the
+[LICENSE.md](https://github.com/google/docsy/blob/main/LICENSE) file for
+details
 
-* Reused around the site to save multiple editing locations.
-* Set in the *Data* / *Company* section.
+[Deploys]: https://app.netlify.com/sites/docsydocs/deploys
+[Netlify]: https://netlify.com
